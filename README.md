@@ -1,4 +1,4 @@
-#Twitter-Sentiment-Analysis-on-Amazon Reviews
+Twitter-Sentiment-Analysis-on-Amazon Reviews
 
 Overview
 This project performs sentiment analysis on Amazon reviews sourced from Twitter data. It utilizes machine learning models to classify the sentiment (positive or negative) of Amazon product reviews extracted from Twitter. The goal is to demonstrate how sentiment analysis can be applied to social media data for insights into customer opinions about Amazon products.
